@@ -1,5 +1,9 @@
 # pandas-challenge-1
 
+It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo. 
+
+The source code for this project is located within Module_4_Challenge.ipynb.  Jupyter Source File (.ipynb)
+in the "main" branch of project pandas-challenge-1.
 
 
 Module 4 Challenge
